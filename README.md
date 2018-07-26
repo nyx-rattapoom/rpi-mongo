@@ -1,3 +1,3 @@
-# Mongodb from armv7l
+# Mongodb for armv6l
 
-mongodb 3.2.20
+ mongodb 3.2.20
